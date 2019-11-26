@@ -1,0 +1,143 @@
+.navbar li{
+  margin-left: 6px;
+  margin-right: 6px;
+}
+.navbar{
+  width: 100%;
+  z-index: 9;
+  position: fixed;
+  top:0;
+  left: 0;
+  
+
+}
+
+
+footer{
+	text-align: center;
+	padding: 1px;
+	color:rgb(170, 28, 28);
+	margin-top: 60px;
+	margin-bottom: 10px;
+
+}
+.dropdown-item{
+  opacity: 0.6;
+}
+
+.auto{
+  margin-top: 100px;
+  margin-bottom: 80px;
+
+}
+.ll {
+  display: inline-block;
+  text-align: center;
+}
+.col-md-2{
+padding: 0;
+}
+tr, th{
+  font-weight: normal;
+  font-size: 12px;
+}
+
+.table.table-scroll {
+  height: 350px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: block;
+}
+.taa{
+  border: solid 2px blue;
+  border-radius: 10px;
+  margin-left: 8%;
+  padding: 5px;
+}
+
+.green{
+  background-image:url(images/green.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}
+.yellow{
+  background-image:url(images/yellow.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}
+.pict h1{
+  
+  margin-left: auto;
+  margin-right: auto;
+  color: rgba(0, 123, 255, 0.9);
+  margin-top: 10px;
+}
+.pict{
+  top:0;
+}
+.row{
+
+margin-top: 50px;
+border-radius: 5px;
+margin-left: auto;
+margin-right: auto;
+padding-top: 15px;
+}
+
+.row li{
+  line-height: 200%;
+}
+
+textarea{ resize: none;}
+
+.form-control{
+font-size: 15px;
+padding: 5px;
+
+}
+.contactus{
+   
+  position: relative;
+}
+.contactpara{
+  position: absolute;
+  bottom: 8px;
+  border:solid grey 1px;
+  border-top-right-radius: 25px;
+  padding-right: 50px;
+  padding-left: 20px;
+  
+  bottom: 30px;
+  color: white;
+   background-color: rgba(27, 13, 230, 0.6);
+}
+
+.carr{
+  background-image: url(images/World.jpg) ;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}
+
+.minibox{
+  width: 100%;
+  border: 1px solid #e0e0e0;
+  border-radius: 1px;
+  text-align: center;
+  line-height:1.5em;
+  min-height: 194px;
+  margin-top: 45px;
+ 
+}
+
+.col-md-4 img{
+  margin-top: 2px;
+padding: 5px ;
+border: solid 1px ;
+}
+.mgmt{
+  background-image:url(images/yellow.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
